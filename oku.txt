@@ -1,0 +1,1 @@
+Bu Python kodu belirli tarihli Millî Gazete arşiv sayfalarından haber linklerini çekip .txt dosyasına kaydetmek için yazılmıştır.
